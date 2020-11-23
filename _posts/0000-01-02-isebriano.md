@@ -1,4 +1,4 @@
-This is my first file on GitHUB
+This is my first file on GitH
 
 
 Another new line.
